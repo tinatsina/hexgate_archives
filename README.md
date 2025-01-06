@@ -11,13 +11,12 @@ This is the Latex repository for HexGate analysis into LOL match prediction, by 
 ## Authors
 
 - `Tinaye H Tsinakwadi`
-    - University of Liechtenstein
-    - tinaye.tsinakwadi@uni.li
+  - University of Liechtenstein
+  - <tinaye.tsinakwadi@uni.li>
 
 - `Aristote`
-    - Fudan University
-    - aristote@fudan.edu.cn
-
+  - Fudan University
+  - <aristote@fudan.edu.cn>
 
 ## License
 
